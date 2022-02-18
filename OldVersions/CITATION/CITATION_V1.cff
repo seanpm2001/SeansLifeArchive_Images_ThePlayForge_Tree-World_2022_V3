@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this data set (image data) project, please cite it as below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V3"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2021-12-25
+url: "https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V3"
+cff-version: 1.2.0
+message: "If you use this data set (image data) project, please cite it as below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Video game image data for machine learning and stock imagery"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2022-03-31
+url: "https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V3"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 3
+  start: 1 # First page number
+  end: 100000 # Last page number
+  title: "Video game (Tree World (2011) by The PlayForge) image data for machine learning, reference, and stock imagery by @seanpm2001 (Sean P. Myrick). This is volume 4 spanning from 2022 March 1st to 2022 March 31st"
+  issue: 4
+  volume: 4
+  year: 2022
+# File info
+# File version: 1 (2022, Thursday, February 17th at 8:45 pm)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 44
